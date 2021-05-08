@@ -1,3 +1,3 @@
 node {
-	git branch: '*/main', url: 'https://github.com/subbaredy216/Maven_Sample.git'
+	git branch: 'main', url: 'https://github.com/subbaredy216/Maven_Sample.git'
 	}
